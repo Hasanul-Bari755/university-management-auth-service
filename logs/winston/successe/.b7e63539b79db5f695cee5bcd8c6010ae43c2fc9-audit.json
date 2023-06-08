@@ -24,6 +24,11 @@
             "date": 1686189703169,
             "name": "C:\\level2\\university-management-auth-service\\logs\\winston\\successe\\UM-2023-08-06-08-success.log",
             "hash": "c776be8a0b0496aa1193264cae4204c99d01e6ec5ca970d527d06fd8ba58ec24"
+        },
+        {
+            "date": 1686258183049,
+            "name": "C:\\level2\\university-management-auth-service\\logs\\winston\\successe\\UM-2023-09-06-03-success.log",
+            "hash": "961985b118d2e20d2adfc58a74bc88b5052af7ca77a2bec71e494062601e0ecb"
         }
     ],
     "hashType": "sha256"
