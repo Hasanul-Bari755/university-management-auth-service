@@ -78,6 +78,8 @@
     "vary": "^1.1.2",
     "webidl-conversions": "^7.0.0",
     "whatwg-url": "^11.0.0",
+    "winston": "^3.9.0",
+    "winston-daily-rotate-file": "^4.7.1",
     "wrappy": "^1.0.2",
     "xtend": "^4.0.2",
     "yn": "^3.1.1"
