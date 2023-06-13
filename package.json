@@ -29,6 +29,7 @@
     "glob": "^7.2.3",
     "glob-parent": "^5.1.2",
     "has": "^1.0.3",
+    "http-status": "^1.6.2",
     "inflight": "^1.0.6",
     "inherits": "^2.0.4",
     "ip": "^2.0.0",
@@ -82,7 +83,8 @@
     "winston-daily-rotate-file": "^4.7.1",
     "wrappy": "^1.0.2",
     "xtend": "^4.0.2",
-    "yn": "^3.1.1"
+    "yn": "^3.1.1",
+    "zod": "^3.21.4"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
